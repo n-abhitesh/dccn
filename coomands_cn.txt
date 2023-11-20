@@ -11,3 +11,4 @@ route -n
 traceroute
 tracepath
 whois cbit.ac.in
+https://w7cloud.com/packet-tracer-cisco-commands-list-cli-basic/
