@@ -1,0 +1,13 @@
+ping cbit.ac.in
+arp
+dig
+host cbit.ac.in
+ifconfig
+ifplugstatus
+ip
+netstat cbit.ac.n
+nslookup cbit.ac.in
+route -n
+traceroute
+tracepath
+whois cbit.ac.in
